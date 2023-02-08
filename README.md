@@ -1,2 +1,3 @@
-# get_exchange_rate_BTCUSDT
-Python script for getting exchange rate of BTCUSDT crypto currency.
+# Getting the exchange rates of BTCUSDT Script
+
+This is the example of Python script for getting the exchange rates of BTCUSDT crypto currency.
