@@ -1,4 +1,4 @@
-# Getting the exchange rates of BTCUSDT Script
+# Getting the exchange rates of BTCUSDT
 
 This is the example of Docker container app for Python script for getting the exchange rates of BTCUSDT crypto currency.
 
