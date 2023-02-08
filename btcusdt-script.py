@@ -26,6 +26,6 @@ def write_to_file(price_change):
             f.write("Rates decreased by: {}\n".format(abs(price_change)))
         else:
             f.write("Rates remained the same.\n")
-
-price_change = check_price_change()
-write_to_file(price_change)
+while True:
+    price_change = check_price_change()
+    write_to_file(price_change)
